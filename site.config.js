@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'Tejas Garrepally',
   domain: 'https://www.notion.so/Tejas-Garrepally-0d921a2ae6c7401c887bdb33f323c7a6',
-  author: 'Travis Fischer',
+  author: 'Tejas Garrepally',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'talmarygold',
+  github: 'g-tejas',
+  linkedin: 'gtejas',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
