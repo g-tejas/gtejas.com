@@ -12,8 +12,8 @@ module.exports = {
   author: 'Tejas Garrepally',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'my personal website',
+  socialImageTitle: 'gtejas.com',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
